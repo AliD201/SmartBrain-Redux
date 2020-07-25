@@ -33,14 +33,7 @@ const faceLocation = (faceBox) =>{
 
 }
 
-<<<<<<< HEAD
 
-=======
-const displayFaceBox = (params) =>{
-  console.log(params);
-  setbox(params)
-}
->>>>>>> 2fa8fa56e98c761d153257729670b4e76bc1de92
 
 const mapStateToProps = (state) => {
   return{
