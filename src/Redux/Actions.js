@@ -28,7 +28,11 @@ export const setbox = (obj)=> {
   })
 }
 
+<<<<<<< HEAD
 // this later should be like requestRobots for real sign in
+=======
+// this later should be like requestRobots
+>>>>>>> 2fa8fa56e98c761d153257729670b4e76bc1de92
 export const setisSignedIn = (bool)=>{
 
   return ({
