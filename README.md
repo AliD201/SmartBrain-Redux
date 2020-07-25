@@ -1,3 +1,16 @@
+This is my take on the smart brain project it has the same functionality and general look of the original one
+
+here are the differences : 
+- all functional compenents rather than classes
+- usage of " useState " to simplify the state implementation in the regular app implementation
+- Redux implementation
+
+for the regular impelemntation you can check **app.js**  
+while for the redux impelmentation you can check **App-Redux.js**  
+
+note : in order to run the regular app you will need the regular **index.js** which have been changed here for **redux**
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
